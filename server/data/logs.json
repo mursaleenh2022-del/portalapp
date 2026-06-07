@@ -1,0 +1,1182 @@
+[
+  {
+    "ts": "14:22:01",
+    "lvl": "INFO",
+    "msg": "User auth success: client@portalapp.com (client)"
+  },
+  {
+    "ts": "14:21:58",
+    "lvl": "INFO",
+    "msg": "Task #1042 status update: pending → active"
+  },
+  {
+    "ts": "14:21:44",
+    "lvl": "WARN",
+    "msg": "Rate limit approached: IP 203.0.113.42 (45/50 req/min)"
+  },
+  {
+    "ts": "14:21:30",
+    "lvl": "INFO",
+    "msg": "Payment processed: $28.00 — task #1 — Stripe txn pi_3Ox9"
+  },
+  {
+    "ts": "14:21:22",
+    "lvl": "ERR",
+    "msg": "Push notification failure: device token expired (user #1042)"
+  },
+  {
+    "ts": "14:21:10",
+    "lvl": "INFO",
+    "msg": "New user signup: marcus.w@gmail.com (helper application)"
+  },
+  {
+    "ts": "14:20:57",
+    "lvl": "INFO",
+    "msg": "Dispute D-1042 escalated to admin review queue"
+  },
+  {
+    "ts": "14:20:41",
+    "lvl": "WARN",
+    "msg": "Geocoding API latency: 1240ms (threshold: 800ms)"
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1009)"
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "Job #EM-1009 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1009 marked Completed."
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "Task #EM-1009 reviewed by client: 5★"
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "Admin refunded $55 to client client@portalapp.com from Dispute D-1042"
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "INFO",
+    "msg": "Admin admin@portalapp.com resolved dispute D-1042: \"Refund issued\""
+  },
+  {
+    "ts": "18:46:15",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1010)"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "Job #EM-1010 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1010 marked Completed."
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "Task #EM-1010 reviewed by client: 5★"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "Admin refunded $90 to client carlos@mail.com from Dispute D-1025"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "INFO",
+    "msg": "Admin admin@portalapp.com resolved dispute D-1025: \"Refund issued\""
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "18:51:30",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1011)"
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "INFO",
+    "msg": "Job #EM-1011 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1011 marked Completed."
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "INFO",
+    "msg": "Task #EM-1011 reviewed by client: 5★"
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "18:54:20",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1012)"
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "INFO",
+    "msg": "Job #EM-1012 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1012 marked Completed."
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "INFO",
+    "msg": "Task #EM-1012 reviewed by client: 5★"
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "18:57:22",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "18:57:42",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:01:26",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1013)"
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "INFO",
+    "msg": "Job #EM-1013 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1013 marked Completed."
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "INFO",
+    "msg": "Task #EM-1013 reviewed by client: 5★"
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "19:03:44",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "19:04:10",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1014)"
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "INFO",
+    "msg": "Job #EM-1014 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1014 marked Completed."
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "INFO",
+    "msg": "Task #EM-1014 reviewed by client: 5★"
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "19:26:57",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "19:29:53",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1015)"
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "INFO",
+    "msg": "Job #EM-1015 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1015 marked Completed."
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "INFO",
+    "msg": "Task #EM-1015 reviewed by client: 5★"
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "19:38:15",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "19:53:22",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:53:22",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:53:22",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "19:53:22",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1016)"
+  },
+  {
+    "ts": "19:53:22",
+    "lvl": "INFO",
+    "msg": "Job #EM-1016 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "19:53:22",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1016 marked Completed."
+  },
+  {
+    "ts": "19:53:22",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:53:22",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:53:22",
+    "lvl": "INFO",
+    "msg": "Task #EM-1016 reviewed by client: 5★"
+  },
+  {
+    "ts": "19:53:22",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:53:23",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "19:53:23",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1017)"
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "INFO",
+    "msg": "Job #EM-1017 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1017 marked Completed."
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "INFO",
+    "msg": "Task #EM-1017 reviewed by client: 5★"
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "19:54:22",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1018)"
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "INFO",
+    "msg": "Job #EM-1018 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1018 marked Completed."
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "INFO",
+    "msg": "Task #EM-1018 reviewed by client: 5★"
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "19:59:53",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1019)"
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "INFO",
+    "msg": "Job #EM-1019 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1019 marked Completed."
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "INFO",
+    "msg": "Task #EM-1019 reviewed by client: 5★"
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "20:18:15",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "20:28:18",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "20:28:18",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "20:28:18",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "20:28:18",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1020)"
+  },
+  {
+    "ts": "20:28:18",
+    "lvl": "INFO",
+    "msg": "Job #EM-1020 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "20:28:18",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1020 marked Completed."
+  },
+  {
+    "ts": "20:28:18",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "20:28:18",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "20:28:18",
+    "lvl": "INFO",
+    "msg": "Task #EM-1020 reviewed by client: 5★"
+  },
+  {
+    "ts": "20:28:18",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "20:28:18",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "20:28:19",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1021)"
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "INFO",
+    "msg": "Job #EM-1021 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1021 marked Completed."
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "INFO",
+    "msg": "Task #EM-1021 reviewed by client: 5★"
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "20:34:58",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1022)"
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "INFO",
+    "msg": "Job #EM-1022 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1022 marked Completed."
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "INFO",
+    "msg": "Task #EM-1022 reviewed by client: 5★"
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "13:14:47",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "13:29:39",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "13:29:40",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "13:29:40",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "13:29:40",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1023)"
+  },
+  {
+    "ts": "13:29:40",
+    "lvl": "INFO",
+    "msg": "Job #EM-1023 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "13:29:40",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1023 marked Completed."
+  },
+  {
+    "ts": "13:29:40",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "13:29:40",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "13:29:40",
+    "lvl": "INFO",
+    "msg": "Task #EM-1023 reviewed by client: 5★"
+  },
+  {
+    "ts": "13:29:40",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "13:29:40",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "13:29:40",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1024)"
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "INFO",
+    "msg": "Job #EM-1024 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1024 marked Completed."
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "INFO",
+    "msg": "Task #EM-1024 reviewed by client: 5★"
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "13:50:44",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "14:29:19",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "14:29:19",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "14:29:19",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "14:29:19",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1025)"
+  },
+  {
+    "ts": "14:29:19",
+    "lvl": "INFO",
+    "msg": "Job #EM-1025 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "14:29:19",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1025 marked Completed."
+  },
+  {
+    "ts": "14:29:19",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "14:29:19",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "14:29:20",
+    "lvl": "INFO",
+    "msg": "Task #EM-1025 reviewed by client: 5★"
+  },
+  {
+    "ts": "14:29:20",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "14:29:20",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "14:29:20",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  },
+  {
+    "ts": "14:29:35",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "15:16:14",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "15:16:22",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "15:16:28",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "15:16:32",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "INFO",
+    "msg": "User logged in: admin@portalapp.com (admin)"
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "INFO",
+    "msg": "New task posted by client@portalapp.com: \"Gourmet Grocery Run & Delivery\" (#EM-1026)"
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "INFO",
+    "msg": "Job #EM-1026 accepted by helper helper@portalapp.com"
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "INFO",
+    "msg": "Transaction processed: Client client@portalapp.com debited $45, Helper helper@portalapp.com credited $45. Job #EM-1026 marked Completed."
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "INFO",
+    "msg": "User logged in: client@portalapp.com (client)"
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "INFO",
+    "msg": "Task #EM-1026 reviewed by client: 5★"
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "INFO",
+    "msg": "User logged in: helper@portalapp.com (helper)"
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: SUSPENDED"
+  },
+  {
+    "ts": "19:39:25",
+    "lvl": "WARN",
+    "msg": "Admin admin@portalapp.com toggled status for leon@mail.com: ACTIVE"
+  }
+]

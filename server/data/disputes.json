@@ -1,0 +1,42 @@
+[
+  {
+    "id": "D-1042",
+    "task": "Airport Transfer — JFK",
+    "client": "Sarah Johnson",
+    "helper": "Leon Krause",
+    "amount": "$55",
+    "status": "resolved",
+    "opened": "2 days ago",
+    "desc": "Helper no-showed for airport pickup. Client missed flight."
+  },
+  {
+    "id": "D-1038",
+    "task": "Grocery Run",
+    "client": "Tom Reynolds",
+    "helper": "Priya Malhotra",
+    "amount": "$28",
+    "status": "resolved",
+    "opened": "5 days ago",
+    "desc": "Wrong items purchased. Resolved via 50% refund."
+  },
+  {
+    "id": "D-1031",
+    "task": "Package Delivery",
+    "client": "Emma Larsson",
+    "helper": "Marcus Williams",
+    "amount": "$22",
+    "status": "reviewing",
+    "opened": "1 week ago",
+    "desc": "Package delivered to wrong address. Helper disputes."
+  },
+  {
+    "id": "D-1025",
+    "task": "IKEA Assembly",
+    "client": "Carlos Mendez",
+    "helper": "Aisha Patel",
+    "amount": "$90",
+    "status": "resolved",
+    "opened": "3 days ago",
+    "desc": "Assembly incomplete. 2 of 3 units done. Client requesting partial."
+  }
+]

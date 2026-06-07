@@ -1,0 +1,173 @@
+[
+  {
+    "email": "client@portalapp.com",
+    "pw": "Client@123",
+    "name": "Sarah Johnson",
+    "role": "client",
+    "av": "SJ",
+    "verified": true,
+    "joined": "Aug 12, 2024",
+    "balance": -612.5,
+    "spent": 2650,
+    "tasks": 41,
+    "rating": 4.9,
+    "phone": "+1 (646) 555-0191",
+    "addresses": [
+      {
+        "id": 1,
+        "label": "Home",
+        "addr": "247 W 82nd St, New York, NY 10024"
+      },
+      {
+        "id": 2,
+        "label": "Office",
+        "addr": "1 World Trade Center, New York, NY 10007"
+      },
+      {
+        "id": 3,
+        "label": "Gym",
+        "addr": "Equinox, 139 E 44th St, New York, NY 10017"
+      }
+    ],
+    "status": "active"
+  },
+  {
+    "email": "helper@portalapp.com",
+    "pw": "Helper@123",
+    "name": "Marcus Williams",
+    "role": "helper",
+    "av": "MW",
+    "verified": true,
+    "joined": "Jun 3, 2024",
+    "balance": 3150.75,
+    "totalEarned": 13650,
+    "jobs": 205,
+    "rating": 5,
+    "level": "Gold",
+    "streak": 32,
+    "phone": "+1 (718) 555-0234",
+    "completionRate": 97.3,
+    "responseTime": "3.8 min",
+    "skills": [
+      "Grocery",
+      "Delivery",
+      "Assembly",
+      "Pet Care"
+    ],
+    "status": "active"
+  },
+  {
+    "email": "admin@portalapp.com",
+    "pw": "Admin@123",
+    "name": "Diana Chen",
+    "role": "admin",
+    "av": "DC",
+    "verified": true,
+    "joined": "Jan 1, 2024",
+    "dept": "Operations",
+    "clearance": 3,
+    "twoFA": true,
+    "status": "active"
+  },
+  {
+    "email": "priya@mail.com",
+    "pw": "Helper@123",
+    "name": "Priya Malhotra",
+    "role": "helper",
+    "av": "PM",
+    "verified": true,
+    "joined": "Jul 2024",
+    "balance": 500,
+    "totalEarned": 6230,
+    "jobs": 94,
+    "rating": 4.9,
+    "level": "Gold",
+    "streak": 21,
+    "phone": "+1 (718) 555-0987",
+    "completionRate": 98.1,
+    "responseTime": "4.2 min",
+    "skills": [
+      "Assembly",
+      "Cleaning"
+    ],
+    "status": "active"
+  },
+  {
+    "email": "leon@mail.com",
+    "pw": "Helper@123",
+    "name": "Leon Krause",
+    "role": "helper",
+    "av": "LK",
+    "verified": false,
+    "joined": "Oct 2024",
+    "balance": 120,
+    "totalEarned": 890,
+    "jobs": 32,
+    "rating": 4.2,
+    "level": "Silver",
+    "streak": 0,
+    "phone": "+1 (718) 555-0543",
+    "completionRate": 85,
+    "responseTime": "9.5 min",
+    "skills": [
+      "Pharmacy",
+      "Errands"
+    ],
+    "status": "active"
+  },
+  {
+    "email": "emma@mail.com",
+    "pw": "Client@123",
+    "name": "Emma Larsson",
+    "role": "client",
+    "av": "EL",
+    "verified": true,
+    "joined": "Nov 2024",
+    "balance": 50,
+    "spent": 90,
+    "tasks": 2,
+    "rating": 4.5,
+    "phone": "+1 (646) 555-0812",
+    "addresses": [],
+    "status": "inactive"
+  },
+  {
+    "email": "aisha@mail.com",
+    "pw": "Helper@123",
+    "name": "Aisha Patel",
+    "role": "helper",
+    "av": "AP",
+    "verified": true,
+    "joined": "Dec 2024",
+    "balance": 620,
+    "totalEarned": 3100,
+    "jobs": 41,
+    "rating": 4.95,
+    "level": "Gold",
+    "streak": 8,
+    "phone": "+1 (718) 555-0765",
+    "completionRate": 99,
+    "responseTime": "2.1 min",
+    "skills": [
+      "Pet Care",
+      "Walking"
+    ],
+    "status": "active"
+  },
+  {
+    "email": "carlos@mail.com",
+    "pw": "Client@123",
+    "name": "Carlos Mendez",
+    "role": "client",
+    "av": "CM",
+    "verified": false,
+    "joined": "Jan 2025",
+    "balance": 105,
+    "spent": 480,
+    "tasks": 6,
+    "rating": 4,
+    "phone": "+1 (646) 555-0453",
+    "addresses": [],
+    "status": "active"
+  }
+]
